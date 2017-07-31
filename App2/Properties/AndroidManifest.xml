@@ -3,3 +3,5 @@
   <uses-sdk android:minSdkVersion="16" />
   <application android:label="App2"></application>
 </manifest>
+  <application android:label="App2"></application>
+</manifest>
